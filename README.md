@@ -46,10 +46,10 @@
 
 <div align=center>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Silicon-Valley-Online-Internship&repo=Client-Spring-React&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhnNick&repo=TIL&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Silicon-Valley-Online-Internship&repo=Client-Spring-React&theme=vue)](https://github.com/Silicon-Valley-Online-Internship/Client-Spring-React)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhnNick&repo=TIL&theme=vue)](https://github.com/AhnNick/TIL)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhnNick&repo=NetworkRouting&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhnNick&repo=ImageProcessing&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhnNick&repo=NetworkRouting&theme=vue)](https://github.com/AhnNick/NetworkRouting)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AhnNick&repo=ImageProcessing&theme=vue)](https://github.com/AhnNick/ImageProcessing)
 
 </div>
