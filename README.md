@@ -30,7 +30,6 @@
 </p>
 <p align=center>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ElasticStack-005571?style=flat-square&logo=Elastic-Stack&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/></a>&nbsp
 </p>
