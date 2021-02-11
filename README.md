@@ -1,14 +1,16 @@
+<div align=center>
+
 [![AhnNick's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnNick&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<center>
-  가운데
-</center>
-
+</div>
+<div align=center>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhnNick&count_bg=%2386D14E&title_bg=%234B4D47&icon=github.svg&icon_color=%23EDF1E6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
 
+<h3 align='center'> 🔨 Tech Stack  </h3>
 
-### 🔨 Tech Stack
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Silicon-Valley-Online-Internship&repo=Client-Spring-React&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
