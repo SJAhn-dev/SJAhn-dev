@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ElasticStack-005571?style=flat-square&logo=Elastic-Stack&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/></a>&nbsp
-</p
+</p>
 
 <div align=center>
 
