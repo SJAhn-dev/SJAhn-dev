@@ -2,7 +2,7 @@
 
 <div align=center>
   
-[![AhnNick's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnNick&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![SJAhn-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJAhn-dev&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div align=center>
