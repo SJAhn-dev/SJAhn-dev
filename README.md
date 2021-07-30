@@ -12,7 +12,7 @@
   
 
 </div>
-
+<!--
 ---
 
 <h2 align='center'> 🔨 Tech Stack 🔨 </h2>
@@ -44,7 +44,7 @@
 </p>
 
 ---
-<!--
+
 <div align=center>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Silicon-Valley-Online-Internship&repo=PillGood_MainWAS&theme=vue)](https://github.com/Silicon-Valley-Online-Internship/PillGood_MainWAS)
