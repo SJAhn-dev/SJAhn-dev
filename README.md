@@ -8,7 +8,9 @@
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhnNick&count_bg=%2386D14E&title_bg=%234B4D47&icon=github.svg&icon_color=%23EDF1E6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!--
   <a href="https://velog.io/@ahnick"><img src="https://img.shields.io/badge/AhnNick's Tech Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ahnick"/></a>
+-->
   
 
 </div>
