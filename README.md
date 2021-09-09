@@ -1,4 +1,4 @@
-<h2 align=center> 🦉 Junior Back-End Engineer 🦉 </h2>
+<h2 align=center> 🦉 Junior Back-End Developer 🦉 </h2>
 
 <div align=center>
   
